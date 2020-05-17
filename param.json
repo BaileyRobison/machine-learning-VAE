@@ -1,0 +1,8 @@
+{
+	"learning rate": 0.001,
+	"momentum": 0.95,
+	"num epoch": 200,
+	"display epoch": 10,
+	"test size": 3000,
+	"in path": 'data/'
+}
